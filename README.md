@@ -5,7 +5,7 @@
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[SQL Analysis (Code)](https://github.com/aayushkeshav18-design/Netflix-Content-Trends-Analysis)
+[SQL Analysis (Code)](https://github.com/aayushkeshav18-design/Netflix-Content-Trends-Analysis/blob/main/SQL_Analysis.sql)
 
 [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
 
